@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL]()
-- [Live site URL]()
+- [Live site URL](https://silly-truffle-ae0216.netlify.app/)
 
 ## My process
 
@@ -45,4 +45,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [CHRIS](https://www.frontendmentor.io/profile/FLCHRIS)
