@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/loopstudios-landing-page-Q5V2HZN6Da)
 - [Live site URL](https://silly-truffle-ae0216.netlify.app/)
 
 ## My process
